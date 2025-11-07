@@ -1,0 +1,21 @@
+2025-10-28T18:57:36.1036076+01:00 Started
+2025-10-28T18:57:36.1163031+01:00 No scripts present.
+2025-10-28T18:59:42.4603448+01:00 Started
+2025-10-28T18:59:58.1106653+01:00 Backup created: Backups\Data.ccx.20251028_185958.bak
+2025-10-28T18:59:58.1251096+01:00 Replacement failed: Original token not found in file.
+2025-10-28T19:00:38.6515998+01:00 Restored Backups\Data.ccx.20251028_185958.bak
+2025-10-28T19:00:45.8877162+01:00 Backup created: Backups\Data.ccx.20251028_190045.bak
+2025-10-28T19:00:45.9181991+01:00 Replacement failed: Original token not found in file.
+2025-10-28T19:00:55.9442103+01:00 Exiting normally.
+2025-10-28T19:01:14.7036482+01:00 Started
+2025-10-28T19:01:20.5453268+01:00 Backup created: Backups\Data.ccx.20251028_190120.bak
+2025-10-28T19:01:20.5599478+01:00 Replacement failed: Original token not found in file.
+2025-10-28T19:01:39.9811012+01:00 Launcher started.
+2025-10-28T19:01:39.9817492+01:00 Launcher started by user.
+2025-10-28T19:06:23.0087901+01:00 Exiting normally.
+2025-10-28T19:09:30.8124218+01:00 Started
+2025-10-28T19:09:44.1159061+01:00 Backup created: Backups\Data.ccx.20251028_190944.bak
+2025-10-28T19:09:44.1291469+01:00 Replacement failed: Original token not found in file.
+2025-10-28T19:27:05.2229307+01:00 Exiting normally.
+2025-10-28T19:27:19.2774599+01:00 Started
+2025-10-28T19:27:19.2863389+01:00 Data file missing. Exiting.

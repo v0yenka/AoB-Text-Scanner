@@ -1,0 +1,14 @@
+C:\Users\dracu\Documents\bsso-swapper\BSSO_TestManager\bin\Debug\net8.0\BSSO_TestManager.exe
+C:\Users\dracu\Documents\bsso-swapper\BSSO_TestManager\bin\Debug\net8.0\BSSO_TestManager.deps.json
+C:\Users\dracu\Documents\bsso-swapper\BSSO_TestManager\bin\Debug\net8.0\BSSO_TestManager.runtimeconfig.json
+C:\Users\dracu\Documents\bsso-swapper\BSSO_TestManager\bin\Debug\net8.0\BSSO_TestManager.dll
+C:\Users\dracu\Documents\bsso-swapper\BSSO_TestManager\bin\Debug\net8.0\BSSO_TestManager.pdb
+C:\Users\dracu\Documents\bsso-swapper\BSSO_TestManager\obj\Debug\net8.0\BSSO_TestManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dracu\Documents\bsso-swapper\BSSO_TestManager\obj\Debug\net8.0\BSSO_TestManager.AssemblyInfoInputs.cache
+C:\Users\dracu\Documents\bsso-swapper\BSSO_TestManager\obj\Debug\net8.0\BSSO_TestManager.AssemblyInfo.cs
+C:\Users\dracu\Documents\bsso-swapper\BSSO_TestManager\obj\Debug\net8.0\BSSO_TestManager.csproj.CoreCompileInputs.cache
+C:\Users\dracu\Documents\bsso-swapper\BSSO_TestManager\obj\Debug\net8.0\BSSO_TestManager.dll
+C:\Users\dracu\Documents\bsso-swapper\BSSO_TestManager\obj\Debug\net8.0\refint\BSSO_TestManager.dll
+C:\Users\dracu\Documents\bsso-swapper\BSSO_TestManager\obj\Debug\net8.0\BSSO_TestManager.pdb
+C:\Users\dracu\Documents\bsso-swapper\BSSO_TestManager\obj\Debug\net8.0\BSSO_TestManager.genruntimeconfig.cache
+C:\Users\dracu\Documents\bsso-swapper\BSSO_TestManager\obj\Debug\net8.0\ref\BSSO_TestManager.dll
